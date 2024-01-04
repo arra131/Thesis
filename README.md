@@ -1,4 +1,4 @@
-# Thesis
+# Master Thesis
 
 ## EHR-M-GAN to generate synthetic EHR data, focusing on handling missing values 
 
