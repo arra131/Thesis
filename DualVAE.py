@@ -92,9 +92,9 @@ discrete_data = torch.from_numpy(disc_data)
 print("Shape of continuous input data is", continuous_data.shape)
 print("Shape of discrete input data is", discrete_data.shape)
 
-input_size = 3  # Replace with your actual input size
-hidden_size = 20  # Replace with your desired hidden size
-latent_size = 20  # Replace with your desired latent size
+input_size = 3  
+hidden_size = 20  
+latent_size = 20  
 output_size = 3
 seq_len = 10
 
